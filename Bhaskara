@@ -1,3 +1,5 @@
+#Esse código foi feito para o curso de Python oferecido pelo Instituto de Matemática e Estatística da Universidade Federal de São Paulo
+
 import math
 
 a= float(input("Digite o valor de a:"))

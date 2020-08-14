@@ -9,7 +9,8 @@ delta= b** 2 - 4 * a * c
 if delta == 0:
     raiz1 = (-b + math.sqrt (delta)) / (a * 2) 
     print ("A raiz da equação é:", raiz1)
-else if delta < 0:
+else:
+      if delta < 0:
         print ("Não existe raiz real")
       else:
         raiz1 = (-b + math.sqrt (delta)) / (a * 2) 
